@@ -1,0 +1,27 @@
+{
+  "name": "readbooks",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.x.x",
+    "antd": "^5.x.x",
+    "next": "13.x.x",
+    "openai": "^4.x.x",
+    "react": "18.x.x",
+    "react-dom": "18.x.x",
+    "typescript": "5.x.x",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.x.x",
+    "@types/react": "^18.x.x",
+    "@types/react-dom": "^18.x.x",
+    "@types/uuid": "^9.0.8"
+  }
+}
